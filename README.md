@@ -1,5 +1,8 @@
 🤖 BeyondChats Chatbot Setup UI
 
+🌍 Live Deployment
+Link:https://beyondchatss.vercel.app
+
 📌 Project Description
 
 This project is a mobile-responsive UI/UX implementation for BeyondChats' chatbot setup workflow. The application provides an intuitive and seamless experience for new businesses to set up, integrate, and test their chatbot efficiently.
@@ -125,8 +128,7 @@ node server.js
 
 Open the application in the browser at http://localhost:3000/ 🌍
 
-🌍 Live Deployment
-Link:https://beyondchatss.vercel.app
+
 
 👥 Contributors
 
